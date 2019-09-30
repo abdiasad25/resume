@@ -1,0 +1,108 @@
+<!DOC TYPE html>
+<html>
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Asad Mohamud Abdi</h1>
+  <h2>abdiasad25@gmail.com</h2>
+  <hr />
+  <br>
+  <p class="head">Skills</p>
+  <ul>
+    <li>Computer Skills: MS Office, Adobe</li>
+    <li>Bilingual-Fluent in English and Somali</li>
+    <li>Effective Communicator</li>
+    <li>Strong Leadership</li>
+    <li>Personnel Development</li>
+    <li>Operations/Inventory/Budget management</li>
+    <li>Quality Assurance</li>
+    <li>Efficient and Accurate</li>
+  </ul>
+  
+  <ul>
+
+  </ul>
+  <p class="head">Education</p>
+  <ul>
+      <li>Bonita Vista High School</li>
+    <ul>   
+    <li>September 2008-May 2012</li>
+ <li>San Diego, CA</li>
+   </ul>
+      </a>
+    <!--Link-->
+
+      <li>San Diego Mesa College </li>
+  <ul>  
+  <li>San Diego</li>
+  <li>September 2012 – April 2016</li>
+   </ul>  
+   
+   <li>San Diego City College </li>
+  <ul> 
+  <li>September 2012 – April 2015</li>
+  <li>San Diego</li> 
+  </ul>
+  </ul>
+  
+  <p class="head">Work Experience</p>
+  <ul>
+    <li>AARIA TRANSPORTATION</li>
+    <ul>
+      <li>Operations Manger</li>
+      <li>Coordinated logisticand scheduling for 40+ driver with 200+ patient appointments</li>
+      <li>Developed driver app design to optimize operations, documentation and improve service/patient</li>
+      <li>Developed training manual for new Dispatch and Operations Coordinators</li>
+      <li>Ensured we met contract guarantees</li>
+      <li>Organized daily meetings to promote teamwork and provide organizational communications and updates</li>
+      <li>Managed quality assurance program including on site evaluations, performance evaluations and client surveys</li>
+      <li>Operations management including hiring, payroll and contracts/accounts management</li>
+      <li>Analyzed strategies that provide strategic insights around relevant industry trends</li>
+      <li>Recommended operational design, scheduling, and driver network solutions to drive down cost</li>
+      <li>Conducted performance review and provided feedback regard associate evaluations</li>
+      <li>Supported contract negotiators by providing insight into client performance and strategy</li>
+      </ul>
+          <li>Amazon Inc.-Velocity   </li>
+    <ul>
+      <li>Operations Manger</li>
+      <li>Supervised on-boarding, training and directed operations for team of 50+ associates including 3 leads</li>
+      <li>Executed quantitative and qualitative analysis to developed protocol to provide clear direction to help associates negotiate hurdles affecting performance</li>
+      <li>Devoted special emphasis to compliance, safety, punctuality and worked to maintain outstanding productivity, consistently achieving targeted outcomes</li>
+      <li>Successfully led team to surpass performance metrics; averaging over 14,000 orders per week we maintained 97% delivery success, 99% adherence to standard of operations and 100% safety scores overall</li>
+      <li>Resolved customer escalations and implementing effective problem solving measures to ensure customer satisfaction</li>
+      <li>Set appropriate priorities and ensured all tasks were completed in a timely manner</li>
+      <li>Worked to resolve problems, improve operations and provide exceptional customer service.</li>
+      <li>Motivated staff to increase productivity and team cohesiveness</li>
+  </ul>
+  <p class="head">Projects & Interests</p>
+  <ul>
+    <li>DRIVEBYSAYHI (creator)</li>
+    <ul>
+    <li>Solo photo galley held in San Diego, CA-February 23rd – 24th, 2019
+</li>
+      <li>An idea influenced by photography. Life on the road, community and conversation. Making the best out of your situation. A tool/concept to remind and enlighten the youth that you don’t need to be on the same road as those around you.</li>
+    </ul>
+    </ul>
+    <ul>
+    <li>Infantry Collective</li>
+    <ul>
+    <li>Head of operations</li>
+    <li>The Brotherhood Collective</li>
+    <li>A clothing brand that focuses on brotherhood and connecting with whomever it is wearing the clothing</li>
+    </ul>
+    </ul>
+    <ul>
+    <li>Future Color</li>
+    <ul>
+    <li>Management & Marketing Company</li>
+    <li>Using our profound knowledge of marketing and strategy coupled with our resources throughout the music and entertainment industry we will collectively build/strengthen careers, individuals and families </li>
+    </ul>
+    </ul>
+  </ul>
+  </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+  <h2 id="name">Asad Abdi</h2></div>
+</html>
